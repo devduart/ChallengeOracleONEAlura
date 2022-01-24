@@ -20,6 +20,11 @@ Os usuarios serão capazes de:
 * Criptografar as mensagens
 * Descriptografar as mensagens
 
+__Screenshot__ 📱
+
+![Screenshot](./img/printTela.png)
+
+
 # ⚔️ Tech usadas ⚔️
 
 * HTML
