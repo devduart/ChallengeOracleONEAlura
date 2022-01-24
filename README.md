@@ -1,7 +1,5 @@
 # 
-# ✅ Challenge Oracle ONE Alura - Criptografia de mensagens ✅
-
-Semana 01 e 02: Construa um decodificador de texto com Javascript
+# ✅ Challenge Oracle ONE Alura - Decodificador de texto com Javascript ✅
 
 Alura Cripto é um sistema de criptografar e descriptografar mensagens de textos com Javascript. A regra para criptografar as mensagens, segue o modelo de substituir as vogais por determinadas palavras, e para descriptografar é apenas substituir a palavra pela vogal correspondente.
 
