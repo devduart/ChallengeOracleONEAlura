@@ -33,4 +33,4 @@ Os usuarios serão capazes de:
 
 # 🕹️ Autor  🕹️
 
-Dev Duart
+** 🕹️ [DevDuart](https://www.linkedin.com/in/walysson-duarte-56926471/)**
