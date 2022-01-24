@@ -13,19 +13,19 @@ Alura Cripto é um sistema de criptografar e descriptografar mensagens de textos
 
 # ✨ Overview do projeto✨
 
-__O Challenge__ 🚀
+🚀__O Challenge__ 🚀
 
 Os usuarios serão capazes de:
 
 * Criptografar as mensagens
 * Descriptografar as mensagens
 
-# 🔨 Tech usadas 🔨
+# ⚔️ Tech usadas ⚔️
 
 * HTML
 * CSS
 * JavaScript
 
-# 👷 Autor 👷
+# ⚔️ Autor   ⚔️
 
 Dev Duart
